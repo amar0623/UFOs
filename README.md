@@ -10,6 +10,9 @@ Here is an example of two filters (City as "la mesa" and State as "ca") applied 
 
 ## Summary
 One drawback of this webpage is that the filtering system does not allow for varying letter cases or similar spellings. For example, someone wanted to filter by the state California would have to exactly input "ca" instead of the traditional capitalized version of the state's abbreviation "CA" to get the proper results.
+
 One recommendation for further development is to add more data. The data only spans for a two week time period during January of 2010.
+
 Another recommendation for further development is to add features that allow for more less specific filtering (such as the letter casing as mentioned as a drawback above or allowing for partial words to filter).
+
 If we wanted the website to be even more advanced, we could add a feature to attach a photo of the UFO sighting granted the reporter has one available. This would make the page more intreguing and interactive for our site visitors!

@@ -5,8 +5,8 @@ Data journalist, Dana, has been given the opportunity to write about her hometow
 
 ## Results
 To use our filtering system, just type a search criteria in one or more filter boxes and hit enter!
-Here is an example of two filters applied to one search:
-
+Here is an example of two filters (City as "la mesa" and State as "ca") applied to one search:
+![image](https://user-images.githubusercontent.com/96644316/170813510-70e55c54-2fb2-4de9-9db4-b3aca1c44792.png)
 
 ## Summary
 One drawback of this webpage is that the filtering system does not allow for varying letter cases or similar spellings. For example, someone wanted to filter by the state California would have to exactly input "ca" instead of the traditional capitalized version of the state's abbreviation "CA" to get the proper results.
